@@ -3,7 +3,7 @@
 //  GitTest
 //
 //  Created by Ryan Carlson on 2/13/18.
-//  Copyright © 2018 Ryan Carlson. All rights reserved.
+//  Copyright © 2018 Ryan Carlson. All rights reserved..
 //
 
 import UIKit
